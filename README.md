@@ -1,4 +1,9 @@
-## Bem vindo ao Ciberespaço ##                                                                                  
+## Bem vindo ao Ciberespaço ##    
+
+Bem vindo ao meu perfil!
+Me chamo Alexandre, desenvolvedor Front-End, Atualmente moro em Curitiba, estudo ciência da Computaçãona na Pontifícia Universidade Católica do Paraná
+
+
 <div align="center">
   <a href="https://github.com/Alexandre-Tortoza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-tortoza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -7,13 +12,9 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8f8bb6324576f86d99bdded93803f89d/genexus.png">
-                      
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">                      
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 </div>
   
