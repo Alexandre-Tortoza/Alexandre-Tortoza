@@ -4,7 +4,7 @@ Bem vindo ao meu perfil!
 Me chamo Alexandre, desenvolvedor Front-End, Atualmente moro em Curitiba, estudo ciência da Computaçãona na Pontifícia Universidade Católica do Paraná
 
 
-<div align="center">
+<div>
   <a href="https://github.com/Alexandre-Tortoza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-tortoza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-tortoza&layout=compact&langs_count=7&theme=midnight-purple"/>
