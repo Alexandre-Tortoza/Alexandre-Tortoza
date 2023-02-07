@@ -10,9 +10,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alexandre-Tortoza&bg_color=0d1117&color=f085f2&line=8000ff&point=1f3473&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![image](https://user-images.githubusercontent.com/85268093/217347119-49c5a183-957e-4403-b40d-aab046122108.png)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Tortoza&hide_border=true&bg_color=00000000&title_color=71A40&text_color=F085F2&icon_color=F085F2&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Tortoza&layout=compact&hide_border=true&title_color=71A40&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-
   
-  
-  
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-tortoza&layout=compact&langs_count=7&theme=midnight-purple"/>  -->
