@@ -6,6 +6,9 @@
 
 <p align="center">Me chamo Alexandre, desenvolvedor Front-End, Atualmente moro em Curitiba,e sou estudante de Ciências da Computação na Pontifícia Universidade Católica do Paraná (PUCPR).</p>
 
+### <div align="center"><a target="_blank" href="https://portfolio-reactjs-phi.vercel.app/">Meu Portfolio</a></div>
+
+
 ##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Alexandre-Tortoza&bg_color=0d1117&color=f085f2&line=8000ff&point=1f3473&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
