@@ -6,7 +6,7 @@
 
 <p align="center">Me chamo Alexandre, desenvolvedor Front-End, Atualmente moro em Curitiba,e sou estudante de Ciências da Computação na Pontifícia Universidade Católica do Paraná (PUCPR).</p>
 
-### <div align="center"><a target="_blank" href="https://portfolio-reactjs-phi.vercel.app/">Meu Portfolio</a></div>
+### <div align="center"><a href="https://portfolio-reactjs-phi.vercel.app/">Meu Portfolio</a></div>
 
 
 ##
