@@ -11,7 +11,7 @@
 
 ##
 
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=Alexandre-Tortoza&bg_color=0d1117&color=f085f2&line=8000ff&point=1f3473&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AlexMrTr](https://github-readme-activity-graph.cyclic.app/graph?username=Alexandre-Tortoza&bg_color=0d1117&color=f085f2&line=8000ff&point=1f3473&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![image](https://user-images.githubusercontent.com/85268093/217347119-49c5a183-957e-4403-b40d-aab046122108.png)
 
 
