@@ -43,7 +43,7 @@
 ### Links
  <div style="display: inline_block">
  <a href="mailto:a.marquestortoza@gmail.com" > <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/alexmrtr2001/"> <img width="142" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/alexmrtrc/"> <img width="142" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/alexandre-marques-a7195724b/"> <img width="128" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCHL4tI0MMd4uXfglWxh_4mg" > <img width="124" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  </div>
