@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F085F2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&weight=800&size=30&color=7937A6&center=true&vCenter=true&multiline=true&&width=1000&height=80&lines=+Bem+vindo+ao+Ciberespa%C3%A7o+!;+Bem+vindo+ao+meu+Perfil+♥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inter&weight=800&size=30&color=7937A6&center=true&vCenter=true&multiline=true&&width=1000&height=80&lines=+Bem+vindo+ao+meu+Perfil+♥;+Bem+vindo+ao+Ciberespa%C3%A7o+!)](https://git.io/typing-svg)
 
 <br>
 
-<p align="center">Me chamo Alexandre, desenvolvedor Front-End, Atualmente moro em Curitiba,e sou estudante de Ciências da Computação na Pontifícia Universidade Católica do Paraná (PUCPR).</p>
+<p align="center">Me chamo Alexandre, desenvolvedor Full-Stack, Atualmente moro em Curitiba,e sou estudante de Ciências da Computação na Pontifícia Universidade Católica do Paraná (PUCPR).</p>
 
 ### <div align="center"><a href="https://portfolio-reactjs-phi.vercel.app/">Meu Portfolio</a></div>
 
@@ -26,12 +26,15 @@
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+ <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ### Estudando no Momento:
 <div style="display: inline_block">
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+ <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 
