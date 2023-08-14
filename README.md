@@ -6,10 +6,9 @@
 
 <p align="center">Me chamo Alexandre, desenvolvedor Full-Stack, Atualmente moro em Curitiba,e sou estudante de Ciências da Computação na Pontifícia Universidade Católica do Paraná (PUCPR).</p>
 
-### <div align="center"><a href="https://portfolio-reactjs-phi.vercel.app/">Meu Portfolio</a></div>
+<h1 align="center"><a href="https://portfolio-reactjs-phi.vercel.app/">Meu Portfolio</a></h1>
 
-
-##
+<br>
 
 [![](https://github-readme-activity-graph.cyclic.app/graph?username=Alexandre-Tortoza&bg_color=0d1117&color=f085f2&line=8000ff&point=1f3473&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -19,30 +18,39 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Tortoza&layout=compact&hide_border=true&title_color=71A40&bg_color=00000000" />
 </div>
 
-##
- ### Principais Habilidades:
-<div style="display: inline_block">
+#
+
+<div align="center" style="display: inline_block">
+<h3>Principais Habilidades:</h3>
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
-### Estudando no Momento:
-<div style="display: inline_block">
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-
-
+<br>
+<div align="center" style="display: inline_block">
+    <div align="center">
+      Conheço:
+      <div>
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+      </div>
+    </div>
+     <div align="center">
+      Estudando no Momento:
+      <div>
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+       <!--<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> -->
+      </div>
+    </div>
+    
 </div>
-
-##
 
 ### Links
  <div style="display: inline_block">
