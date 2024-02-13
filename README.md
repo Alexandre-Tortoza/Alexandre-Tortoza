@@ -13,7 +13,9 @@ essenciais, como React e Next.js. Mas recentemente, venho ampliando
 minha experiência, migrando para a área de Full Stack, onde estou 
 adquirindo habilidades em PHP, SQL e C#</p>
 
-<h1 align="center"><a href="[https://portfolio-reactjs-phi.vercel.app/](https://portfolio-2023-nine-hazel.vercel.app/)">Meu Portfolio</a></h1>
+<!-- 
+ <h1 align="center"><a href="[https://portfolio-reactjs-phi.vercel.app/](https://portfolio-2023-nine-hazel.vercel.app/)">Meu Portfolio</a></h1>
+-->
 
 <br>
 
