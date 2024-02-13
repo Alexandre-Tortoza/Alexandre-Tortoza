@@ -13,7 +13,7 @@ essenciais, como React e Next.js. Mas recentemente, venho ampliando
 minha experiência, migrando para a área de Full Stack, onde estou 
 adquirindo habilidades em PHP, SQL e C#</p>
 
-<h1 align="center"><a href="https://portfolio-reactjs-phi.vercel.app/">Meu Portfolio</a></h1>
+<h1 align="center"><a href="[https://portfolio-reactjs-phi.vercel.app/](https://portfolio-2023-nine-hazel.vercel.app/)">Meu Portfolio</a></h1>
 
 <br>
 
@@ -39,30 +39,21 @@ adquirindo habilidades em PHP, SQL e C#</p>
 </div>
 <br>
 <div align="center" style="display: inline_block">
-    <div align="center">
-      Conheço:
-      <div>
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-       <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-      </div>
-    </div>
      <div align="center">
       Estudando no Momento:
       <div>
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-       <!--<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> -->
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
       </div>
     </div>
     
-</div>
+</div aling='center'>
 
-### Links
- <div style="display: inline_block">
+<br>
+ 
+ <div style="display: inline_block" align="center">
  <a href="mailto:a.marquestortoza@gmail.com" > <img width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/alexmrtrc/"> <img width="142" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/alexandre-marques-a7195724b/"> <img width="128" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCHL4tI0MMd4uXfglWxh_4mg" > <img width="124" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
  </div>
