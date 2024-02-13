@@ -4,7 +4,14 @@
 
 <br>
 
-<p align="center">Me chamo Alexandre, desenvolvedor Full-Stack, Atualmente moro em Curitiba,e sou estudante de Ciências da Computação na Pontifícia Universidade Católica do Paraná (PUCPR).</p>
+<p align="center">Olá, me chamo Alexandre, tenho 22 anos. Em 2021 tive meu primeiro contato com a área de 
+desenvolvimento de software , onde dei início aos meus estudos nesse 
+campo, em 2023, iniciei no curso de Ciência da Computação na PucPR, 
+dedicando-me inicialmente ao desenvolvimento Front-end. Durante 
+esse período, aprofundei meus conhecimentos em frameworks 
+essenciais, como React e Next.js. Mas recentemente, venho ampliando 
+minha experiência, migrando para a área de Full Stack, onde estou 
+adquirindo habilidades em PHP, SQL e C#</p>
 
 <h1 align="center"><a href="https://portfolio-reactjs-phi.vercel.app/">Meu Portfolio</a></h1>
 
