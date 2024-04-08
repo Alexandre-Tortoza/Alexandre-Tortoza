@@ -5,12 +5,7 @@
 <br>
 
 <p>
-Olá, me chamo Alexandre, tenho 22 anos. Em 2021, tive meu primeiro contato com a área de desenvolvimento de software, onde dei início aos meus estudos nesse campo. Em 2023, iniciei no curso de Ciência da Computação na PucPR, dedicando-me inicialmente ao desenvolvimento Front-end. Durante esse período, aprofundei meus conhecimentos em frameworks essenciais, como React e Next.js. Mas recentemente, venho ampliando minha experiência, migrando para a área de Full Stack, onde estou adquirindo habilidades em PHP, SQL e C#.
-
-Atualmente, estou em **estágio** na **Apoiar - Serviços Administrativos**, onde minhas responsabilidades incluem:
-- **Acompanhar o desenvolvimento de software e programas**.
-- **Auxiliar na detecção de falhas no sistema**.
-- **Auxiliar no desenvolvimento de software**.
+Meu nome é Alexandre e tenho 22 anos. Minha jornada no desenvolvimento de software começou em 2021, e desde então, tenho me dedicado a aprimorar minhas habilidades nessa área. Em 2023, iniciei meu curso de Ciência da Computação na PucPR, com foco inicial em desenvolvimento Front-end, onde me especializei em frameworks como React e Next.js. Recentemente, expandi meu escopo para Full Stack, adquirindo conhecimentos em PHP, SQL e C#. Atualmente, estou estagiando na Apoiar - Serviços administrativos, onde participo ativamente do desenvolvimento de softwares, programas e websites, além de auxiliar na detecção de falhas no sistema.
 </p>
 
 <!-- 
