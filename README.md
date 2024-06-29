@@ -39,7 +39,7 @@ Meu nome é Alexandre e tenho 22 anos. Minha jornada no desenvolvimento de softw
      <div align="center">
       Estudando no Momento:
       <div>
-        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
+        <img width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" />
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
       </div>
