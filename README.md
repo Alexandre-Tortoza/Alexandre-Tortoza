@@ -5,7 +5,7 @@
 <br>
 
 <p>
-Meu nome é Alexandre e tenho 22 anos. Minha jornada no desenvolvimento de software começou em 2021, e desde então, tenho me dedicado a aprimorar minhas habilidades nessa área. Em 2023, iniciei meu curso de Ciência da Computação na PucPR, com foco inicial em desenvolvimento Front-end, onde me especializei em frameworks como React e Next.js. Recentemente, expandi meu escopo para Full Stack, adquirindo conhecimentos em PHP, SQL e C#.
+Olá, meu nome é Alexandre e tenho 22 anos. Minha jornada no desenvolvimento de software começou em 2021, e desde então, tenho me dedicado a aprimorar minhas habilidades nessa área. Atualmente, trabalho no setor de TI da Bwise Contabilidade, onde sou responsável pelo desenvolvimento front-end dos sistemas. Em 2023, iniciei meu curso de Ciência da Computação na PUCPR, onde me especializei em frameworks como Vue e Next.js. Recentemente, adquiri conhecimentos em PHP, SQL e C#, e estou sempre em busca de aprender mais.
 </p>
 
 <!-- 
@@ -26,13 +26,11 @@ Meu nome é Alexandre e tenho 22 anos. Minha jornada no desenvolvimento de softw
 
 <div align="center" style="display: inline_block">
 <h3>Principais Habilidades:</h3>
+ <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
- <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 <br>
 <div align="center" style="display: inline_block">
