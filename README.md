@@ -1,18 +1,13 @@
-<p align="left">Sou um desenvolvedor Front-End apaixonado por cafés e jogos. Minha jornada na programação começou em 2021, quando eu criava landing pages e pequenos sites. Hoje em dia, trabalho no desenvolvimento de Sistemas nacionais e internacionais. Desde 2022, estou cursando Ciência da Computação na PUC-PR, onde tive a oportunidade de participar de vários projetos acadêmicos e freelances, principalmente nas áreas de educação e gestão. Nessas iniciativas, desenvolvi e projetei um sistema de ensino e um sistema de gestão para uma empresa de recreação infantil, sempre buscando criar soluções personalizadas, únicas e intuitivas.<br><br>Atualmente, trabalho na Bwise Contabilidade, onde desenvolvo um timesheet e um sistema de ponto interno, além de contribuir com a plataforma da empresa, atuando tanto no design das telas quanto na codificação. Minha experiência também inclui o trabalho com diversas tecnologias, como PHP, JavaScript, Bootstrap 5, React, WordPress, HTML e CSS, o que aprimorou minha capacidade de adaptação e inovação.<br><br>E sempre sobra um tempinho para aprender algo novo, então por que não aprender C# e Flutter?</p>
-
-###
-
 <h1 align="center">Seja bem-vindo !</h1>
-
 ###
 
 <h3 align="left">Sobre Mim</h3>
 
-###
 
 <p align="left">Olá eu me chamo Alexandre.</p>
+<p align="left">Sou um desenvolvedor Front-End apaixonado por cafés e jogos. Minha jornada na programação começou em 2021, quando eu criava landing pages e pequenos sites. Hoje em dia, trabalho no desenvolvimento de Sistemas nacionais e internacionais. Desde 2022, estou cursando Ciência da Computação na PUC-PR, onde tive a oportunidade de participar de vários projetos acadêmicos e freelances, principalmente nas áreas de educação e gestão. Nessas iniciativas, desenvolvi e projetei um sistema de ensino e um sistema de gestão para uma empresa de recreação infantil, sempre buscando criar soluções personalizadas, únicas e intuitivas.<br><br>Atualmente, trabalho na Bwise Contabilidade, onde desenvolvo um timesheet e um sistema de ponto interno, além de contribuir com a plataforma da empresa, atuando tanto no design das telas quanto na codificação. Minha experiência também inclui o trabalho com diversas tecnologias, como PHP, JavaScript, Bootstrap 5, React, WordPress, HTML e CSS, o que aprimorou minha capacidade de adaptação e inovação.<br><br>E sempre sobra um tempinho para aprender algo novo, então por que não aprender C# e Flutter?</p>
 
-###
+
 
 <h3 align="left">Minhas principais Stacks</h3>
 
