@@ -1,86 +1,80 @@
-<h1 align="center">Seja bem-vindo !</h1>
-
-###
-
-<h3 align="left">Sobre Mim</h3>
-
-###
-
-<p align="left">Olá eu me chamo Alexandre.</p>
-
-###
-
-<p align="left">Sou um desenvolvedor Front-End apaixonado por cafés e jogos. Minha jornada na programação começou em 2021, quando eu criava landing pages e pequenos sites. Hoje em dia, trabalho no desenvolvimento de Sistemas nacionais e internacionais. Desde 2022, estou cursando Ciência da Computação na PUC-PR, onde tive a oportunidade de participar de vários projetos acadêmicos e freelances, principalmente nas áreas de educação e gestão. Nessas iniciativas, desenvolvi e projetei um sistema de ensino e um sistema de gestão para uma empresa de recreação infantil, sempre buscando criar soluções personalizadas, únicas e intuitivas.<br><br>Atualmente, trabalho na Bwise Contabilidade, onde desenvolvo um timesheet e um sistema de ponto interno, além de contribuir com a plataforma da empresa, atuando tanto no design das telas quanto na codificação. Minha experiência também inclui o trabalho com diversas tecnologias, como PHP, JavaScript, Bootstrap 5, React, WordPress, HTML e CSS, o que aprimorou minha capacidade de adaptação e inovação.<br><br>E sempre sobra um tempinho para aprender algo novo, então por que não aprender C# e Flutter?</p>
-
-###
-
-<h3 align="left">Minhas principais Stacks</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=3BA9C0&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=Alexandre+Tortoza;Desenvolvedor+%26+%E2%80%A8UX%2FUI+Designer+!)](https://git.io/typing-svg)
+  
 </div>
 
-###
+### Sobre Mim ! 👋
 
-<h3 align="left">Mas também conheço</h3>
+<p align="left">
+Olá, meu nome é Alexandre. Sou desenvolvedor apaixonado por UI/UX. Comecei minha jornada na programação em 2021, desenvolvendo landing pages e pequenos sites. Desde então, venho buscando me aperfeiçoar, atuando em projetos nacionais e internacionais, colaborando com empresas e startups no desenvolvimento de soluções web e sistemas internos.
 
-###
+### Academico 💻
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+Atualmente, sou estudante de Ciência da Computação na PUC-PR, onde participei de diversos projetos acadêmicos. Também já trabalhei em freelances voltados para diversas áreas, como educação e gestão. Nesses projetos, desenvolvi soluções como um sistema de ensino personalizado e um sistema de gestão para uma empresa de recreação infantil, sempre focando em criar experiências personalizadas e atraentes para os usuários.
+
+### Profissional 💼
+
+Trabalho na Bwise Contabilidade, onde contribuo para o desenvolvimento da plataforma de gestão empresarial e de projetos como o Sistema de Ponto, utilizando tecnologias como Vue3 e C#. Minha atuação abrange desde o design das telas até a implementação do código. Além disso, colaboro na manutenção de sites desenvolvidos em WordPress.
+
+</p>
+
+<br/>
+
+<span align="center">
+  
+## Minhas principais Stacks
+
+</span>
+
+### Front-End
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="80"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="80"/>
+
 </div>
 
-###
+### Back-End
 
-<h3 align="left">Estudando no Momento</h3>
+<div>
 
-###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="80"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
 
-###
+## Tambem conheço
 
-<h3 align="center">Dá uma olhada!</h3>
+<div>
 
-###
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg"  width="80"/>
+
+</div>
+
+
+---
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre-Tortoza&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alexandre-Tortoza&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Tortoza&locale=pt-br&radius=16&theme=dracula&area=true&order=5&bg_color=282a36&hide_border=true&hide_title=true" height="288" alt="activity-graph graph"  />
+
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin-top:50px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alexandre-Tortoza&show_icons=true&theme=transparent" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Tortoza&layout=compact&theme=transparent" style="height: 200px;">
+  </div>
+
 </div>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexmrqr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@AlexMrTr2001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-###
