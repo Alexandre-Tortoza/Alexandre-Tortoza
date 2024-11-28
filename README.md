@@ -70,14 +70,11 @@ Trabalho na Bwise Contabilidade, onde contribuo para o desenvolvimento da plataf
 
 <br/>
 
-
 <div align="center">
 
   <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin-top:50px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alexandre-Tortoza&show_icons=true&theme=transparent" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Tortoza&layout=compact&theme=transparent" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alexandre-Tortoza&show_icons=true&theme=transparent" style="height: 150px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Tortoza&layout=compact&theme=transparent" style="height: 150px;">
   </div>
 
 </div>
-
-
