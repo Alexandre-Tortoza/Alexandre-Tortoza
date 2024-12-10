@@ -11,7 +11,7 @@ Olá, meu nome é Alexandre. Sou desenvolvedor apaixonado por UI/UX. Comecei min
 
 ### Academico 💻
 
-Atualmente, sou estudante de Ciência da Computação na PUC-PR, onde participei de diversos projetos acadêmicos. Também já trabalhei em freelances voltados para diversas áreas, como educação e gestão. Nesses projetos, desenvolvi soluções como um sistema de ensino personalizado e um sistema de gestão para uma empresa de recreação infantil, sempre focando em criar experiências personalizadas e atraentes para os usuários.
+Atualmente, sou estudante de Ciência da Computação na PUC-PR, onde participei de diversos projetos acadêmicos. Também já trabalhei em freelances voltados para diversas áreas, como educação e gestão. Nesses projetos, participei do desenvolvimento de soluções como um sistema de ensino personalizado e um sistema de gestão para uma empresa de recreação infantil, sempre focando em criar experiências personalizadas e cativantes para os usuários.
 
 ### Profissional 💼
 
