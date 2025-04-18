@@ -13,10 +13,6 @@ Olá, meu nome é Alexandre. Sou desenvolvedor apaixonado por UI/UX. Comecei min
 
 Atualmente, sou estudante de Ciência da Computação na PUC-PR, onde participei de diversos projetos acadêmicos. Também já trabalhei em freelances voltados para diversas áreas, como educação e gestão. Nesses projetos, participei do desenvolvimento de soluções como um sistema de ensino personalizado e um sistema de gestão para uma empresa de recreação infantil, sempre focando em criar experiências personalizadas e cativantes para os usuários.
 
-### Profissional 💼
-
-Trabalho na Bwise Contabilidade, onde contribuo para o desenvolvimento da plataforma de gestão empresarial e de projetos como o Sistema de Ponto, utilizando tecnologias como Vue3 e C#. Minha atuação abrange desde o design das telas até a implementação do código. Além disso, colaboro na manutenção de sites desenvolvidos em WordPress.
-
 </p>
 
 <br/>
