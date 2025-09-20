@@ -4,12 +4,7 @@
   
 </div>
 
-### Sobre Mim ! 👋
-
-<p align="left">
-Olá, meu nome é Alexandre. Sou desenvolvedor apaixonado por UI/UX. Comecei minha jornada na programação em 2021, desenvolvendo landing pages e pequenos sites. Desde então, venho buscando me aperfeiçoar, atuando em projetos nacionais e internacionais, colaborando com empresas e startups no desenvolvimento de soluções web e sistemas internos.
-
-</p>
+### Olá, meu nome é Alexandre! 👋
 
 <br/>
 
