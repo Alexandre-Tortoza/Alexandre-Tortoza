@@ -9,10 +9,6 @@
 <p align="left">
 Olá, meu nome é Alexandre. Sou desenvolvedor apaixonado por UI/UX. Comecei minha jornada na programação em 2021, desenvolvendo landing pages e pequenos sites. Desde então, venho buscando me aperfeiçoar, atuando em projetos nacionais e internacionais, colaborando com empresas e startups no desenvolvimento de soluções web e sistemas internos.
 
-### Academico 💻
-
-Atualmente, sou estudante de Ciência da Computação na PUC-PR, onde participei de diversos projetos acadêmicos. Também já trabalhei em freelances voltados para diversas áreas, como educação e gestão. Nesses projetos, participei do desenvolvimento de soluções como um sistema de ensino personalizado e um sistema de gestão para uma empresa de recreação infantil, sempre focando em criar experiências personalizadas e cativantes para os usuários.
-
 </p>
 
 <br/>
