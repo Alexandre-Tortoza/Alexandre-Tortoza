@@ -1,64 +1,65 @@
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=500&color=3BA9C0&center=true&vCenter=true&multiline=true&repeat=false&width=750&height=120&lines=Alexandre+Tortoza;Desenvolvedor+%26+%E2%80%A8UX%2FUI+Designer+!)](https://git.io/typing-svg)
-  
-</div>
+```javascript
 
-### Olá, meu nome é Alexandre! 👋
+class AlexandreTortoza {
+  constructor() {
+    this.hello = "👋 Bem-vindo ao meu GitHub!";
 
-<br/>
+    this.about = {
+      name: "Alexandre Marques Tortoza Canoa",
+      role: "Full-Stack & UI/UX Developer",
+      location: "Curitiba - PR, Brasil 🇧🇷",
+      focus: [
+        "Vue 3 + Laravel",
+        "Ruby, Python",
+      ],
+      studying: [
+        "Inteligência Artificial e ML",
+        "Arquitetura de Software",
+        "Sistemas Distribuídos",
+      ],
+    };
 
-<span align="center">
-  
-## Minhas principais Stacks
+    this.stack = [
+      "Vue 3",
+      "Laravel ",
+      "TypeScript",
+      "JavaScript",
+      "PHP",
+      "TailwindCSS",
+      "Bootstrap",
+      "Python",
+      "Docker",
+      "MySQL",
+      "MongoDB",
+      "Figma",
+    ];
 
-</span>
+    this.featuredRepos = [
+      {
+        name: "portfolio",
+        description:
+          "Meu portfólio profissional — com Tailwind, animações e seções dinâmicas em Vue 3.",
+        link: "https://github.com/Alexandre-Tortoza/portfolio",
+      },
+    ];
 
-### Front-End
+    this.links = {
+      github: "https://github.com/Alexandre-Tortoza",
+      linkedin: "https://www.linkedin.com/in/alexandre-tortoza",
+      portfolio: "https://alexandre-tortoza.github.io/",
+    };
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
+    this.funFact =
+      "Curioso por natureza!";
+  }
 
-</div>
+  greet() {
+    console.log(`${this.hello}\nSou ${this.about.name} — ${this.about.role}`);
+  }
+}
 
-### Back-End
+const alexandre = new AlexandreTortoza();
+alexandre.greet();
 
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50"/>
 
-</div>
-
-## Tambem conheço
-
-<div>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50"/> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="50"/>
-<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg"  width="50"/> --> 
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin-top:50px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alexandre-Tortoza&show_icons=true&theme=transparent" style="height: 150px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Tortoza&layout=compact&theme=transparent" style="height: 150px;">
-  </div>
-
-</div>
+```
