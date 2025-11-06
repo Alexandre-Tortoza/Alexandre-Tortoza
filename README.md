@@ -58,7 +58,7 @@ class Desenvolvedor:
         }
 ```
 
----
+<br/>
 
 ```bash
 [root@alexmrtr ~]# cat status
@@ -71,7 +71,7 @@ class Desenvolvedor:
 
 </div>
 
----
+<br/>
 
 ```bash
 [root@alexmrtr ~]# ls projects/
@@ -84,7 +84,7 @@ class Desenvolvedor:
   
 </div>
 
----
+<br/>
 
 ```bash
 [root@alexmrtr ~]# nvim
@@ -96,7 +96,7 @@ class Desenvolvedor:
 
 </div>
 
----
+<br/>
 
 ```bash
 [root@alexmrtr ~]# contact --info
