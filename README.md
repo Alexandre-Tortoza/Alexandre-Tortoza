@@ -83,6 +83,17 @@ class Desenvolvedor:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Tortoza&repo=portfolio&theme=transparent&hide_border=true)](https://github.com/Alexandre-Tortoza/portfolio)
   
 </div>
+---
+
+```bash
+[root@alexmrtr ~]# nvim
+```
+
+<div align="center">
+
+![Codewars](https://github.r2v.ch/codewars?user=alexmrtr&top_languages=true&theme=gradient_dark_by_level)
+
+</div>
 
 ---
 
