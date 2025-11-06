@@ -20,7 +20,6 @@
   ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
   ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
   ![sqlite](https://skillicons.dev/icons?i=sqlite&theme=dark)
-  ![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
   ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
   ![Git](https://skillicons.dev/icons?i=git&theme=dark)
   ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
