@@ -83,6 +83,7 @@ class Desenvolvedor:
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Tortoza&repo=portfolio&theme=transparent&hide_border=true)](https://github.com/Alexandre-Tortoza/portfolio)
   
 </div>
+
 ---
 
 ```bash
