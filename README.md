@@ -93,7 +93,7 @@ class Desenvolvedor:
 <div align="center">
 
 
-![Codewars]([https://github.r2v.ch/codewars?user=alexmrtr&top_languages=true&theme=gradient_dark_by_level](https://www.codewars.com/users/Alexandre-Tortoza/badges/large))
+![Codewars](https://github.r2v.ch/codewars?user=alexmrtr&top_languages=true&theme=gradient_dark_by_level)
 
 
 </div>
