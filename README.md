@@ -92,7 +92,7 @@ class Desenvolvedor:
 
 <div align="center">
 
-!(CodeWars)[https://www.codewars.com/users/Alexandre-Tortoza/badges/large]
+![CodeWars](https://www.codewars.com/users/Alexandre-Tortoza/badges/large)
 
 </div>
 
