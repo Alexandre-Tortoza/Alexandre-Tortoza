@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/loading.gif" width="280" height="280"/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Alexandre!;Desenvolvedor+Full-Stack;Clean+Code+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Alexandre!;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
   
 </div>
 
