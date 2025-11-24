@@ -92,6 +92,7 @@ class Desenvolvedor:
 
 <div align="center">
 
+![LeetCode](https://leetcode-badge-sage.vercel.app/badge/alexandre-tortoza?theme=neutral)
 ![CodeWars](https://www.codewars.com/users/Alexandre-Tortoza/badges/large)
 
 </div>
