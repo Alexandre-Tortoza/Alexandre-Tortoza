@@ -105,7 +105,7 @@ class Desenvolvedor:
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.marquestortoza@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.tortoza@proton.me)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmrqr)
   
 </div>
@@ -113,7 +113,7 @@ class Desenvolvedor:
 <div align="center">
   
   <small>
-    Desenvolvendo com ❤️ e muito ☕
+    Desenvolvendo com muito ☕
   </small>
   
 </div>
