@@ -66,22 +66,8 @@ class Desenvolvedor:
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Tortoza&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandre-Tortoza&show_icons=true&theme=transparent&hide_border=true)
+[![Readme Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Tortoza&theme=github-compact&hide_border=true)](https://github.com/Alexandre-Tortoza)
 
-</div>
-
-<br/>
-
-```bash
-[root@alexmrtr ~]# ls projects/
-```
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Tortoza&repo=machine-learning-previsao-congestionamentos-sp&theme=transparent&hide_border=true)](https://github.com/Alexandre-Tortoza/machine-learning-previsao-congestionamentos-sp)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Tortoza&repo=portfolio&theme=transparent&hide_border=true)](https://github.com/Alexandre-Tortoza/portfolio)
-  
 </div>
 
 <br/>
