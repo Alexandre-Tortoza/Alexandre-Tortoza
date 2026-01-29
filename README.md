@@ -51,7 +51,7 @@
 class Developer:
     def __init__(self) -> None:
         self.name: str = "Alexandre Marques Tortoza Canoa"
-        self.location: str = "Curitiba, Paraná, Brazil"
+        self.location: str = "Curitiba, Paraná, Brazil 🇧🇷"
         self.role: str = "Full Stack Developer"
 
     def about_me(self) -> str:
