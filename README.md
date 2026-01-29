@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/loading.gif" width="280" height="280"/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Alexandre!;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22759A&center=true&vCenter=true&random=true&width=600&lines=Hi%2C+I'm+Alexandre+Tortoza!;Full-stack+Developer;Machine+learning+and+AI+enthusiast)](https://git.io/typing-svg)
   
 </div>
 
@@ -37,25 +37,37 @@
 ```python
 #!/usr/bin/env python3
 
-class Desenvolvedor:
+class Developer:
     def __init__(self) -> None:
-        self.nome: str = "Alexandre Marques Tortoza Canoa"
-        self.localizacao: str = "Curitiba - PR 🇧🇷"
-        
-    def especialidades(self) -> list[str]:
+        self.name: str = "Alexandre Marques Tortoza Canoa"
+        self.location: str = "Curitiba, Paraná, Brazil"
+        self.role: str = "Full Stack Developer"
+
+    def about_me(self) -> str:
+        return (
+            "Full Stack Developer focused on building clean, scalable and user-centered "
+            "web applications. Strong background with Vue, React, Laravel and Node.js, "
+            "with interests in AI, Machine Learning and modern software architecture."
+        )
+
+    def specialties(self) -> list[str]:
         return [
-            "Desenvolvimento Full Stack com Vue e React",
-            "Backend robusto com Laravel e Node.js",
-            "Entusiasta de Machine Learning e inteligência artificial",
+            "Full Stack web development",
+            "Frontend with Vue, React and TypeScript",
+            "Backend with Laravel, Node.js and Python",
+            "REST API design and integration",
+            "Clean code and scalable architecture",
         ]
-    
-    def tecnologias(self) -> dict[str, list[str]]:
+
+    def technologies(self) -> dict[str, list[str]]:
         return {
             "frontend": ["Vue", "React", "TypeScript", "JavaScript", "Tailwind CSS"],
             "backend": ["Laravel", "PHP", "Node.js", "Python"],
             "database": ["MySQL", "MongoDB", "SQLite", "Redis"],
             "devops": ["Docker", "Git", "Linux"],
+            "machine_learning": ["scikit-learn"],
         }
+
 ```
 
 <br/>
@@ -66,7 +78,29 @@ class Desenvolvedor:
 
 <div align="center">
 
-[![Readme Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Tortoza&theme=github-compact&hide_border=true)](https://github.com/Alexandre-Tortoza)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Tortoza&theme=github-compact&hide_border=true)](https://github.com/Alexandre-Tortoza)
+
+</div>
+
+
+
+<br/>
+
+```bash
+[root@alexmrtr ~]# ls ~/projects
+```
+
+<div align="center">
+
+
+| Permissions | User     | Name                           | Link |
+|------------|----------|--------------------------------|------|
+| drwxr-xr-x | alexmrtr | front-end-projects             | [Link](https://github.com/Alexandre-Tortoza/front-end-projects) |
+| drwxr-xr-x | alexmrtr | back-end-projects              | [Link](https://github.com/Alexandre-Tortoza/back-end-projects) |
+| drwxr-xr-x | alexmrtr | machine-learning-and-ai-projects | [Link](https://github.com/Alexandre-Tortoza/machine-learning-and-ai-projects) |
+
+
+
 
 </div>
 
@@ -99,7 +133,7 @@ class Desenvolvedor:
 <div align="center">
   
   <small>
-    Desenvolvendo com muito ☕
+    Building things with lots of ☕
   </small>
   
 </div>
