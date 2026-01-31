@@ -1,6 +1,6 @@
 <div align="center">
   <small>
-    <a href="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/README-ptbr.md">Portuguese</a> ·
+    <a href="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/README-ptbr.md">Português</a> ·
     <a href="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/README.md">English</a>
   </small>
 </div>
