@@ -54,7 +54,7 @@
 ---
 
 ```bash
-[root@alexmrtr ~]# cat whoami.py
+[root@alexmrtr ~]# cat whoami.ts
 ```
 
 ```typescript
