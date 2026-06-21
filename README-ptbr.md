@@ -125,12 +125,25 @@ class Developer:
 <br/>
 
 ```bash
+[root@alexmrtr ~]# open https://alexandre-tortoza.tech
+```
+
+<div align="center">
+  <a href="https://alexandre-tortoza.tech">
+    <img src="https://img.shields.io/badge/🌐%20alexandre--tortoza.tech-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+<br/>
+
+```bash
 [root@alexmrtr ~]# contact --info
 ```
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:alexandre.tortoza@proton.me)
+[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge\&logo=firefox-browser\&logoColor=white)](https://alexandre-tortoza.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/alexmrqr)
 
 </div>

@@ -10,6 +10,7 @@
 <br/>
 
 <div align="center">
+
   <img src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/loading.gif" width="280" height="280"/>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22759A&center=true&vCenter=true&random=true&width=600&lines=Hi%2C+I'm+Alexandre+Tortoza!;Full-stack+Developer;Machine+learning+and+AI+enthusiast)](https://git.io/typing-svg)
@@ -127,7 +128,9 @@ export default Developer;
 ```
 
 <div align="center">
+
   <img src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/bisqnote.gif" width="280" height="280"/>
+
 </div>
 
 <br/>
