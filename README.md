@@ -126,12 +126,81 @@ export default Developer;
 ```bash
 [root@alexmrtr ~]# ls ~/projects
 ```
+<table>
+  <tr>
+    <td width="50%" valign="top"> <h3 align="center">alexmrtr</h3>
+  <a href="https://github.com/Alexandre-Tortoza/alexmrtr">
+    <img
+      src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/portfolio.png"
+      alt="Alexandre Tortoza portfolio"
+      width="100%"
+      height="230"
+    />
+  </a>
 
-<div align="center">
+  <p>
+  A small corner of the internet where code, motion, and creativity come together. Built to explore ideas, share projects, and tell stories through thoughtful interactions, playful animations, and a love for crafting experiences on the web.
+  </p>
 
-  <img src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/bisqnote.gif" width="280" height="280"/>
+  <p>
+    <code>Astro</code>
+    <code>TypeScript</code>
+    <code>Tailwind CSS</code>
+    <code>Three.js</code>
+    <code>GSAP</code>
+  </p>
 
-</div>
+  <p>
+    <a href="https://github.com/Alexandre-Tortoza/alexmrtr">
+      <img
+        src="https://img.shields.io/badge/source-GitHub-181717?style=flat-square&logo=github&logoColor=white"
+        alt="Source code"
+      />
+    </a> 
+    <a href="https://alexandre-tortoza.tech">
+<img
+  src="https://img.shields.io/badge/live-online-brightgreen?style=flat-square&logo=vercel&logoColor=white"
+  alt="Live version"
+/>
+    </a>
+  </p>
+</td>
+
+<td width="50%" valign="top">
+  <h3 align="center">BisqNote</h3>
+
+  <a href="https://github.com/Alexandre-Tortoza/bisqnote">
+    <img
+      src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/bisqnote.png"
+      alt="BisqNote collaborative boards"
+      width="100%"
+      height="230"
+    />
+  </a>
+
+  <p>
+A privacy-first collaborative board built for practice and real-world use. Features end-to-end encryption with kanban, calendar, chat, and file sharing to explore secure teamwork experiences.
+  </p>
+
+  <p>
+    <code>Vue 3</code>
+    <code>Fastify</code>
+    <code>TypeScript</code>
+    <code>PostgreSQL</code>
+    <code>Drizzle</code>
+  </p>
+
+  <p>
+    <a href="https://github.com/Alexandre-Tortoza/bisqnote">
+      <img
+        src="https://img.shields.io/badge/source-GitHub-181717?style=flat-square&logo=github&logoColor=white"
+        alt="Source code"
+      />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -141,7 +210,7 @@ export default Developer;
 
 <div align="center">
 
-![LeetCode](https://leetcode-badge-sage.vercel.app/badge/alexandre-tortoza?theme=neutral)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat-square&label=LeetCode&labelColor=000000&color=FFA116&logo=leetcode&logoColor=FFA116&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falexandre-tortoza)](https://leetcode.com/u/alexandre-tortoza/)
 ![CodeWars](https://www.codewars.com/users/Alexandre-Tortoza/badges/large)
 
 </div>
