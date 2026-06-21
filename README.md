@@ -93,6 +93,12 @@ class Developer:
 
 </div>
 
+<div align="center">
+
+[![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandre-tortoza&theme=transparent)](https://github.com/alexandre-tortoza)&nbsp;&nbsp;[![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexandre-tortoza&theme=transparent)](https://github.com/alexandre-tortoza)
+
+</div>
+
 
 
 <br/>
