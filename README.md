@@ -19,35 +19,74 @@
 
 <div align="center">
   
-  ![Vue.js](https://skillicons.dev/icons?i=vue&theme=dark)
-  ![Nuxt](https://skillicons.dev/icons?i=nuxt&theme=dark)
-  ![React](https://skillicons.dev/icons?i=react&theme=dark)
-  ![Astro](https://skillicons.dev/icons?i=astro&theme=dark)
-  ![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
-  ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
-  ![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
-  ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind&theme=dark)
-  ![Sass](https://skillicons.dev/icons?i=sass&theme=dark)
-  ![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)
-  ![PHP](https://skillicons.dev/icons?i=php&theme=dark)
-  ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-  ![Node.js](https://skillicons.dev/icons?i=bun&theme=dark)
-  ![Elysia](https://skillicons.dev/icons?i=elysia&theme=dark)
-  ![Python](https://skillicons.dev/icons?i=python&theme=dark)
-  ![sklearn](https://skillicons.dev/icons?i=sklearn&theme=dark)
-  ![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-  ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-  ![SQLite](https://skillicons.dev/icons?i=sqlite&theme=dark)
-  ![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)
-  ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-  ![Git](https://skillicons.dev/icons?i=git&theme=dark)
-  ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-  ![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)
-  ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-  ![Arch Linux](https://skillicons.dev/icons?i=arch&theme=dark)
-  ![Neovim](https://skillicons.dev/icons?i=neovim&theme=dark)
-  ![Jest](https://skillicons.dev/icons?i=jest&theme=dark)
-  ![Vitest](https://skillicons.dev/icons?i=vitest&theme=dark)
+  <div align="center">
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html&amp;theme=dark" alt="HTML" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=css&amp;theme=dark" alt="CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=sass&amp;theme=dark" alt="Sass" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" alt="Tailwind CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" alt="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" alt="TypeScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vue&amp;theme=dark" alt="Vue.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs&amp;theme=dark" alt="Nuxt" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=pinia&amp;theme=dark" alt="Pinia" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" alt="Next.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=astro&amp;theme=dark" alt="Astro" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=threejs&amp;theme=dark" alt="Three.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=d3&amp;theme=dark" alt="D3.js" width="48" height="48" />
+
+  <!-- Build tools, testing and package managers -->
+  <img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" alt="Vite" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vitest&amp;theme=dark" alt="Vitest" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=jest&amp;theme=dark" alt="Jest" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=npm&amp;theme=dark" alt="npm" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=pnpm&amp;theme=dark" alt="pnpm" width="48" height="48" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bun&amp;theme=dark" alt="Bun" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=elysia&amp;theme=dark" alt="Elysia" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=php&amp;theme=dark" alt="PHP" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" alt="Laravel" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" alt="C#" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=dotnet&amp;theme=dark" alt=".NET" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" alt="Rust" width="48" height="48" />
+
+  <!-- Python and Machine Learning -->
+  <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" alt="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark" alt="scikit-learn" width="48" height="48" />
+
+  <!-- Databases, caching and ORM -->
+  <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=sqlite&amp;theme=dark" alt="SQLite" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" alt="MongoDB" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" alt="Redis" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=prisma&amp;theme=dark" alt="Prisma" width="48" height="48" />
+
+  <!-- Version control and CI/CD -->
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" alt="GitHub Actions" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" alt="GitLab" width="48" height="48" />
+
+  <!-- Infrastructure and hosting -->
+  <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" alt="Docker" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" alt="AWS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" alt="Azure" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=netlify&amp;theme=dark" alt="Netlify" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" alt="Vercel" width="48" height="48" />
+
+  <!-- Development environment -->
+  <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=arch&amp;theme=dark" alt="Arch Linux" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" alt="Bash" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=neovim&amp;theme=dark" alt="Neovim" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=lua&amp;theme=dark" alt="Lua" width="48" height="48" />
+
+</div>
   
 </div>
 
