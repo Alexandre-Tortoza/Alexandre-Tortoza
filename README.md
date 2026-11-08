@@ -36,8 +36,6 @@
   <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" alt="Next.js" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=astro&amp;theme=dark" alt="Astro" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=threejs&amp;theme=dark" alt="Three.js" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=d3&amp;theme=dark" alt="D3.js" width="48" height="48" />
 
   <!-- Build tools, testing and package managers -->
   <img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" alt="Vite" width="48" height="48" />
