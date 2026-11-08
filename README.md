@@ -4,25 +4,15 @@
     <a href="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/README.md">English</a>
   </small>
 </div>
-
-<br/>
-<br/>
-<br/>
-
 <div align="center">
-
   <img src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/loading.gif" width="280" height="280"/>
-  
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=22759A&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Hi%2C+I'm+Alexandre+Tortoza!)](https://git.io/typing-svg)
-  
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&duration=2500&color=22759A&center=true&vCenter=true&repeat=true&random=false&width=700&lines=Software+Engineer;Full-stack+Developer;Frontend+Engineer;Backend+Developer;Cloud+%26+DevOps+Enthusiast;Machine+Learning+%26+AI+Enthusiast)](https://git.io/typing-svg)
-  
 </div>
 
 <div align="center">
-  
-  <div align="center">
-
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html&amp;theme=dark" alt="HTML" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=css&amp;theme=dark" alt="CSS" width="48" height="48" />
@@ -36,14 +26,12 @@
   <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" alt="Next.js" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=astro&amp;theme=dark" alt="Astro" width="48" height="48" />
-
   <!-- Build tools, testing and package managers -->
   <img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" alt="Vite" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=vitest&amp;theme=dark" alt="Vitest" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=jest&amp;theme=dark" alt="Jest" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=npm&amp;theme=dark" alt="npm" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=pnpm&amp;theme=dark" alt="pnpm" width="48" height="48" />
-
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=bun&amp;theme=dark" alt="Bun" width="48" height="48" />
@@ -53,11 +41,9 @@
   <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" alt="C#" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=dotnet&amp;theme=dark" alt=".NET" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=rust&amp;theme=dark" alt="Rust" width="48" height="48" />
-
   <!-- Python and Machine Learning -->
   <img src="https://skillicons.dev/icons?i=py&amp;theme=dark" alt="Python" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark" alt="scikit-learn" width="48" height="48" />
-
   <!-- Databases, caching and ORM -->
   <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" alt="MySQL" width="48" height="48" />
@@ -65,81 +51,59 @@
   <img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" alt="MongoDB" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=redis&amp;theme=dark" alt="Redis" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=prisma&amp;theme=dark" alt="Prisma" width="48" height="48" />
-
   <!-- Version control and CI/CD -->
   <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" alt="GitHub Actions" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" alt="GitLab" width="48" height="48" />
-
   <!-- Infrastructure and hosting -->
   <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" alt="Docker" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" alt="AWS" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" alt="Azure" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=netlify&amp;theme=dark" alt="Netlify" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" alt="Vercel" width="48" height="48" />
-
   <!-- Development environment -->
   <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=arch&amp;theme=dark" alt="Arch Linux" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=bash&amp;theme=dark" alt="Bash" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=neovim&amp;theme=dark" alt="Neovim" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=lua&amp;theme=dark" alt="Lua" width="48" height="48" />
-
-</div>
-  
 </div>
 
 ---
 
 ```bash
-[root@alexmrtr ~]# cat whoami.ts
+[root@alexmrtr ~]# fastfetch
 ```
 
-```typescript
-#!/usr/bin/env node
+```txt
 
-class Developer {
-  private readonly name: string;
-  private readonly location: string;
-  private readonly role: string;
-
-  constructor() {
-    this.name = "Alexandre Marques Tortoza Canoa";
-    this.location = "Curitiba, Paraná, Brazil 🇧🇷";
-    this.role = "Full Stack Developer";
-  }
-
-  public aboutMe(): string {
-    return `
-Full Stack Developer focused on building clean, scalable and user-centered web applications.
-Strong background with Vue, React, Laravel and Node.js, with interests in AI, Machine Learning
-and modern software architecture.
-    `.trim();
-  }
-
-  public specialties(): string[] {
-    return [
-      "Full Stack web development",
-      "Frontend with Vue, React and TypeScript",
-      "Backend with Laravel, Node.js and Python",
-      "REST API design and integration",
-      "Clean code and scalable architecture",
-    ];
-  }
-
-  public technologies(): Record<string, string[]> {
-    return {
-      frontend: ["Vue", "React", "TypeScript", "JavaScript", "Tailwind CSS"],
-      backend: ["Laravel", "PHP", "Node.js", "Python"],
-      database: ["MySQL", "MongoDB", "SQLite", "Redis"],
-      devops: ["Docker", "Git", "Linux"],
-      machineLearning: ["scikit-learn"],
-    };
-  }
-}
-
-export default Developer;
+  ██████████████████████████████████████████████████████      ┌──────────────────────Hardware──────────────────────┐
+  ██████████████████████████████████████████████████████       PC: 730QFG (P05VAE)
+  ████                     ████                     ████      │ ├: 13th Gen Intel(R) Core(TM) i5-1335U (4+8) @ 4.60 GHz
+  ████                     ████                     ████      │ ├: Iris Xe Graphics
+  ████    █████████████████████         ████████    ████      │ ├󱄄: 1920x1080 @ 1.59x in 13", 60 Hz [Built-in]
+  ████    █████████████████████         ████████    ████      │ ├󰋊: 113.66 GiB / 236.46 GiB (48%) - btrfs
+  ████    ████                              ████    ████      │ ├: 5.04 GiB / 7.44 GiB (68%)
+  ████    ████                              ████    ████      └ └󰓡: 978.03 MiB / 14.88 GiB (6%)
+  ████    ████                              ████    ████      └────────────────────────────────────────────────────┘
+  ████    ████                              ████    ████
+  ████    ████                              ████    ████      ┌──────────────────────Software──────────────────────┐
+  ████    ████                              ████    ████       OS: Omarchy 4.5.0-3
+  ████████████                              ████    ████      │ ├󰔫: stable
+  ████████████                              ████    ████      │ ├: Linux 7.2.15-1-omarchy
+  ████    ████                              ████    ████      │ ├: Hyprland 0.56.2 (Wayland)
+  ████    ████                              ████    ████      │ ├: ghostty 1.4.0+omarchy.1
+  ████    ████                              ████    ████      │ ├󰏖: 1158 (pacman)
+  ████    ████                              ████    ████      │ ├󰸌: Event Horizon ●●●●●●●●
+  ████    ████                              ████    ████      └ └: FiraCode Nerd Font Mono (8pt)
+  ████    ████                              ████    ████      └────────────────────────────────────────────────────┘
+  ████    ██████████████████████████████████████    ████
+  ████    ██████████████████████████████████████    ████      ┌────────────────Age / Uptime / Update───────────────┐
+  ████                     ████                     ████      󱦟 OS Age: 51 days
+  ████                     ████                     ████      󱫐 Uptime: 1h 24m
+  █████████████████████████████     ████████████████████       Update: Friday 06 November 2026 at 18:55
+  █████████████████████████████     ████████████████████      └────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -165,6 +129,7 @@ export default Developer;
 ```bash
 [root@alexmrtr ~]# ls ~/projects
 ```
+
 <table>
   <tr>
     <td width="50%" valign="top"> <h3 align="center">alexmrtr</h3>
@@ -195,7 +160,7 @@ export default Developer;
         src="https://img.shields.io/badge/source-GitHub-181717?style=flat-square&logo=github&logoColor=white"
         alt="Source code"
       />
-    </a> 
+    </a>
     <a href="https://alexandre-tortoza.tech">
 <img
   src="https://img.shields.io/badge/live-online-brightgreen?style=flat-square&logo=vercel&logoColor=white"
