@@ -13,7 +13,9 @@
 
   <img src="https://github.com/Alexandre-Tortoza/Alexandre-Tortoza/blob/main/assets/loading.gif" width="280" height="280"/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=22759A&center=true&vCenter=true&random=true&width=600&lines=Hi%2C+I'm+Alexandre+Tortoza!;Full-stack+Developer;Machine+learning+and+AI+enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=22759A&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Hi%2C+I'm+Alexandre+Tortoza!)](https://git.io/typing-svg)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&duration=2500&color=22759A&center=true&vCenter=true&repeat=true&random=false&width=700&lines=Software+Engineer;Full-stack+Developer;Frontend+Engineer;Backend+Developer;Cloud+%26+DevOps+Enthusiast;Machine+Learning+%26+AI+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 
